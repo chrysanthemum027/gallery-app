@@ -1,10 +1,6 @@
 # Gallery App
 A Gallery application to view and manage your images efficiently and loaded with features like search, paginated results, edit, delete, etc.
 
-Deployed API url: https://galleryappapihackerearth.herokuapp.com/
-
-Deployed ReactApp url: https://62d2f38ec1d65d301585c1ad--hackerearth-gallery-app.netlify.app/
-
 ## Getting Started
 
 ### `MongoDB Atlas`
